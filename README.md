@@ -1,6 +1,6 @@
 > # Part - 1
 
-## **Oracle, PostgreSQL, Linux, aur DevOps** ka knowledge hai — career choose karna ek long-term decision hota hai. Chaliye in 4 options ko **future job demand, salary scope, learning curve, aur career growth** ke perspective se compare karte hain, phir mai aapko recommendation dunga:
+### **Oracle, PostgreSQL, Linux, aur DevOps** ka knowledge hai — career choose karna ek long-term decision hota hai. Chaliye in 4 options ko **future job demand, salary scope, learning curve, aur career growth** ke perspective se compare karte hain, phir mai aapko recommendation dunga:
 
 ---
 
@@ -121,7 +121,7 @@ Based on your existing mix:
 
 > # Part - 2
 
-## Programming ke multiple domains hai: **Frontend, Backend, Full Stack, Android Development, AI/ML, Data Science, DevOps, Cybersecurity, Blockchain, etc.** — but har skill ki market value, demand aur risk level alag hai.
+### Programming ke multiple domains hai: **Frontend, Backend, Full Stack, Android Development, AI/ML, Data Science, DevOps, Cybersecurity, Blockchain, etc.** — but har skill ki market value, demand aur risk level alag hai.
 
 Chaliye aapka confusion clear karte hain ek **comparison chart** ke through, jismein har domain ko explain kiya gaya hai future perspective, job demand, automation risk (AI se replace hone ka chance), aur career growth ke hisaab se.
 
@@ -196,7 +196,7 @@ Ye combo **high-paying**, **future-proof**, aur **startup + MNCs dono** mein dem
 
 > # Part - 3
 
-## Aaj AI ke aane se bahut log confuse hain ki kaunsa programming language ya skill future mein demand mein rahega, aur kaunsa replace ho sakta hai.
+### Aaj AI ke aane se bahut log confuse hain ki kaunsa programming language ya skill future mein demand mein rahega, aur kaunsa replace ho sakta hai.
 
 Chaliye isko **4 parts** me divide karke simple aur clear tariqe se samajhte hain:
 
